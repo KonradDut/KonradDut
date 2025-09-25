@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C#<br>🎯 Goals: Staying alive 👍<br>🎲 Fun fact: I still don't know what I'm doing</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C# and Angular<br>🎯 Goals: Staying alive 👍<br>🎲 Fun fact: I still don't know what I'm doing</p>
 
 ###
 
